@@ -1,0 +1,16 @@
+/*
+Developer - Dev
+date - 30-7-2016
+Subject- Send mail by using node.js technology with using different service provider 
+
+*/
+Steps For Mailer
+1) download node.js from node.org.
+2)npm insatll in project
+3)Write the code of Server.js file
+3)npm install nodemailer-smtp-transport
+4) run file in cmd (projectpath) node Server.js
+5)http://localhost:3000/send
+
+note- When Your Sending gmail check your cmd terminal.
+	  check the account where sending you mail you get mail from gmail to need to give access of your account(Trun On)	
